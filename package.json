@@ -1,0 +1,1 @@
+{"description":"Dailymotion video downloader — paste a link, get a real MP4. Server-side HLS fetch + ffmpeg mux, deployed on Railway.","engines":{"node":">=20"},"license":"MIT","main":"server.js","name":"dailymotion-downloader","scripts":{"start":"node server.js"},"type":"module","version":"1.0.0"}
